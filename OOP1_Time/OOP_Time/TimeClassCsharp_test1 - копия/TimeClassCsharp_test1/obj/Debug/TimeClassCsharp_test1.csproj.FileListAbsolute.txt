@@ -1,0 +1,30 @@
+G:\VS2017_Projects\TimeClassCsharp_test1\TimeClassCsharp_test1\obj\Debug\TimeClassCsharp_test1.csprojAssemblyReference.cache
+G:\VS2017_Projects\TimeClassCsharp_test1\TimeClassCsharp_test1\obj\Debug\TimeClassCsharp_test1.Form1.resources
+G:\VS2017_Projects\TimeClassCsharp_test1\TimeClassCsharp_test1\obj\Debug\TimeClassCsharp_test1.Properties.Resources.resources
+G:\VS2017_Projects\TimeClassCsharp_test1\TimeClassCsharp_test1\obj\Debug\TimeClassCsharp_test1.csproj.GenerateResource.cache
+G:\VS2017_Projects\TimeClassCsharp_test1\TimeClassCsharp_test1\obj\Debug\TimeClassCsharp_test1.csproj.CoreCompileInputs.cache
+G:\VS2017_Projects\TimeClassCsharp_test1\TimeClassCsharp_test1\bin\Debug\TimeClassCsharp_test1.exe.config
+G:\VS2017_Projects\TimeClassCsharp_test1\TimeClassCsharp_test1\bin\Debug\TimeClassCsharp_test1.exe
+G:\VS2017_Projects\TimeClassCsharp_test1\TimeClassCsharp_test1\bin\Debug\TimeClassCsharp_test1.pdb
+G:\VS2017_Projects\TimeClassCsharp_test1\TimeClassCsharp_test1\obj\Debug\TimeClassCsharp_test1.exe
+G:\VS2017_Projects\TimeClassCsharp_test1\TimeClassCsharp_test1\obj\Debug\TimeClassCsharp_test1.pdb
+G:\VS2017_Projects\TimeClassCsharp_test1 - копия (5)\TimeClassCsharp_test1\bin\Debug\TimeClassCsharp_test1.exe.config
+G:\VS2017_Projects\TimeClassCsharp_test1 - копия (5)\TimeClassCsharp_test1\bin\Debug\TimeClassCsharp_test1.exe
+G:\VS2017_Projects\TimeClassCsharp_test1 - копия (5)\TimeClassCsharp_test1\bin\Debug\TimeClassCsharp_test1.pdb
+G:\VS2017_Projects\TimeClassCsharp_test1 - копия (5)\TimeClassCsharp_test1\obj\Debug\TimeClassCsharp_test1.csprojAssemblyReference.cache
+G:\VS2017_Projects\TimeClassCsharp_test1 - копия (5)\TimeClassCsharp_test1\obj\Debug\TimeClassCsharp_test1.Form1.resources
+G:\VS2017_Projects\TimeClassCsharp_test1 - копия (5)\TimeClassCsharp_test1\obj\Debug\TimeClassCsharp_test1.Properties.Resources.resources
+G:\VS2017_Projects\TimeClassCsharp_test1 - копия (5)\TimeClassCsharp_test1\obj\Debug\TimeClassCsharp_test1.csproj.GenerateResource.cache
+G:\VS2017_Projects\TimeClassCsharp_test1 - копия (5)\TimeClassCsharp_test1\obj\Debug\TimeClassCsharp_test1.csproj.CoreCompileInputs.cache
+G:\VS2017_Projects\TimeClassCsharp_test1 - копия (5)\TimeClassCsharp_test1\obj\Debug\TimeClassCsharp_test1.exe
+G:\VS2017_Projects\TimeClassCsharp_test1 - копия (5)\TimeClassCsharp_test1\obj\Debug\TimeClassCsharp_test1.pdb
+G:\VS2017_Projects\OOP\Time\TimeClassCsharp_test1 - копия (5)\TimeClassCsharp_test1\bin\Debug\TimeClassCsharp_test1.exe.config
+G:\VS2017_Projects\OOP\Time\TimeClassCsharp_test1 - копия (5)\TimeClassCsharp_test1\bin\Debug\TimeClassCsharp_test1.exe
+G:\VS2017_Projects\OOP\Time\TimeClassCsharp_test1 - копия (5)\TimeClassCsharp_test1\bin\Debug\TimeClassCsharp_test1.pdb
+G:\VS2017_Projects\OOP\Time\TimeClassCsharp_test1 - копия (5)\TimeClassCsharp_test1\obj\Debug\TimeClassCsharp_test1.csprojAssemblyReference.cache
+G:\VS2017_Projects\OOP\Time\TimeClassCsharp_test1 - копия (5)\TimeClassCsharp_test1\obj\Debug\TimeClassCsharp_test1.Form1.resources
+G:\VS2017_Projects\OOP\Time\TimeClassCsharp_test1 - копия (5)\TimeClassCsharp_test1\obj\Debug\TimeClassCsharp_test1.Properties.Resources.resources
+G:\VS2017_Projects\OOP\Time\TimeClassCsharp_test1 - копия (5)\TimeClassCsharp_test1\obj\Debug\TimeClassCsharp_test1.csproj.GenerateResource.cache
+G:\VS2017_Projects\OOP\Time\TimeClassCsharp_test1 - копия (5)\TimeClassCsharp_test1\obj\Debug\TimeClassCsharp_test1.csproj.CoreCompileInputs.cache
+G:\VS2017_Projects\OOP\Time\TimeClassCsharp_test1 - копия (5)\TimeClassCsharp_test1\obj\Debug\TimeClassCsharp_test1.exe
+G:\VS2017_Projects\OOP\Time\TimeClassCsharp_test1 - копия (5)\TimeClassCsharp_test1\obj\Debug\TimeClassCsharp_test1.pdb

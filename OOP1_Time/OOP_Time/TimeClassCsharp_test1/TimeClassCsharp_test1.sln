@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeClassCsharp_test1", "TimeClassCsharp_test1\TimeClassCsharp_test1.csproj", "{EAD4C58D-8F5E-470D-8604-B07A9A611F88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeClassTests", "TimeClassTests\TimeClassTests.csproj", "{3CF42655-D247-44F0-AFD0-2292B2E8D25E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{EAD4C58D-8F5E-470D-8604-B07A9A611F88} = {EAD4C58D-8F5E-470D-8604-B07A9A611F88}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAD4C58D-8F5E-470D-8604-B07A9A611F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD4C58D-8F5E-470D-8604-B07A9A611F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD4C58D-8F5E-470D-8604-B07A9A611F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD4C58D-8F5E-470D-8604-B07A9A611F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF42655-D247-44F0-AFD0-2292B2E8D25E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF42655-D247-44F0-AFD0-2292B2E8D25E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF42655-D247-44F0-AFD0-2292B2E8D25E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF42655-D247-44F0-AFD0-2292B2E8D25E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D96220A2-7964-4408-93A6-8CEDA463160F}
+	EndGlobalSection
+EndGlobal
